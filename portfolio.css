@@ -1,0 +1,118 @@
+html{
+	scroll-behavior: smooth;	
+}
+.welcome_page{
+	height: 750px;
+}
+.welcome
+
+{
+	font-family: julius sans one;
+	text-align: center;
+	font-size: -webkit-xxx-large;
+	padding:5%;
+	background-color: #e0c6ec;
+}
+body{
+	font-family: julius sans one;
+}
+.column{
+	float: left;
+  width: 45%;
+  /*border: 1px solid gray;*/
+  margin: 1.66%;
+  text-align:  center;
+  
+}
+.column1{
+	padding-top: 13%;
+}
+.column1 h1{
+	text-decoration: underline;
+}
+.column1 p{
+	font-size: 2em;
+}
+a:visited{
+	color: red;
+}
+
+hr{
+	  height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(224, 198, 236, 0.5);
+}
+.vaish{
+	width:50%;
+	max-width: 800px;
+	border-radius: 8px;
+}
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  margin-left: 50%
+
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+.myskills{
+	font-family: julius sans one;
+	text-align: center;
+	font-size: -webkit-xxx-large;
+	padding:5%;
+	background-color: #e0c6ec;
+}
+
+.skills{
+	border: 5px solid #e0c6ec;
+	height: 750px;
+}
+.logos{
+	width:10%;
+	float: left;
+	margin:5%;
+}
+/*.logos:hover{
+	flex-grow: 
+}*/
+.MyHobby{
+	font-family: julius sans one;
+	text-align: center;
+	font-size: -webkit-xxx-large;
+	padding:5%;
+	background-color: #e0c6ec;
+}
+.hobby{
+	width:10%;
+	padding-left: 12%;
+	padding-top:5%;
+	max-width: 500px;
+}
+.text{
+	text-align: justify;
+	width: [width of img];
+}
+footer{
+	background-color: #e0c6ec;
+	padding: 2.5%;
+	text-align: center;
+}
+.cntbtn {
+	margin-left: 5%;
+	  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  float: left;
+}
+#pad{
+	margin-left: 45%
+}
